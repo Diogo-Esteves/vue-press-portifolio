@@ -4,7 +4,7 @@ module.exports = {
     description: 'This is my first VuePress site',
     theme: 'vuepress-theme-maker',
     themeConfig: {
-        logo: 'https://vuejs.org/images/logo.png'
+        logo: 'https://avatars.githubusercontent.com/u/36523479?v=4'
       // Please head documentation to see the available options.
     }
   }
