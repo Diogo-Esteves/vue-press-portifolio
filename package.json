@@ -1,0 +1,16 @@
+{
+  "name": "vue-press-portifolio",
+  "version": "1.0.0",
+  "description": "diogo-portifolio",
+  "main": "index.js",
+  "repository": "git@github.com:Diogo-Esteves/vue-press-portifolio.git",
+  "author": "diogoEsteves <not@not.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress-theme-maker": "^1.2.0"
+  },  
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
