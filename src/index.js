@@ -17,7 +17,7 @@ module.exports = (themeConfig, ctx) => {
       {
         id: 'post',
         dirname: '_posts',
-        path: '/',
+        path: '/vue-press-portifolio/',
         // layout: 'IndexPost', defaults to `Layout.vue`
         itemLayout: 'Post',
         frontmatter: { title: 'Home' },
