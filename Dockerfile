@@ -7,8 +7,8 @@ COPY package.json /app/package.json
 RUN npm install
 RUN npm install -g @vue/cli
 COPY . /app
-RUN yarn add vuepress-theme-modern-blog -D
-RUN npm run build
+RUN yarn add -D vuepress@next
+# RUN npm run build
 
 # start app
-CMD ["npm", "run", "dev"]
+CMD ["yarn", "docs:dev"]
