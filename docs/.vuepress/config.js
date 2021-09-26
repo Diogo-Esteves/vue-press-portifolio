@@ -3,16 +3,18 @@ module.exports = {
     title: 'Diogo Portifolio!',
     description: 'An engineer that enjoy tech and math.',
     theme: 'vuepress-theme-maker',
+    docsDir: 'docs',
+    editLinks: true,
     themeConfig: {
         logo: 'https://avatars.githubusercontent.com/u/36523479?v=4',
         nav: [
             { text: '🏠 Home', link: '/' },
-            { text: '📚 Books', link: '/books/' },
+            { text: '📚 Books', link: '/books/'},
             { text: '🚀 Projects', link: '/projects/' },
             { text: '💡 Ideas', link: '/ideas/' },
             { text: '📽 Movies', link: '/movies/' },
           ],
-          searchMaxSuggestions: 10,
+          // searchMaxSuggestions: 10,
           social: [
             {
               type: 'github',
