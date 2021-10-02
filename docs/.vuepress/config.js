@@ -5,16 +5,17 @@ module.exports = {
     theme: 'vuepress-theme-maker',
     docsDir: 'docs',
     editLinks: true,
+    search: '',
     themeConfig: {
         logo: 'https://avatars.githubusercontent.com/u/36523479?v=4',
         nav: [
-            { text: '🏠 Home', link: '/' },
-            { text: '📚 Books', link: '/books/'},
-            { text: '🚀 Projects', link: '/projects/' },
-            { text: '💡 Ideas', link: '/ideas/' },
-            { text: '📽 Movies', link: '/movies/' },
+            { text: '🏠 Home', link: '/vue-press-portifolio/' },
+            { text: '📚 Books', link: '/vue-press-portifolio/books/'},
+            { text: '🚀 Projects', link: '/vue-press-portifolio/projects/' },
+            { text: '💡 Ideas', link: '/vue-press-portifolio/ideas/' },
+            { text: '📽 Movies', link: '/vue-press-portifolio/movies/' },
           ],
-          // searchMaxSuggestions: 10,
+          searchMaxSuggestions: 10,
           social: [
             {
               type: 'github',
@@ -30,7 +31,7 @@ module.exports = {
               {
                 id: 'post',
                 dirname: '_post',
-                path: '/',
+                path: '/vue-press-portifolio/',
                 itemPermalink: '/post/:year/:month/:day/:slug.html',
                 frontmatter: { title: '' },
                 pagination: {
