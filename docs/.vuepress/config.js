@@ -4,6 +4,7 @@ module.exports = {
     description: 'An engineer that enjoy tech and math.',
     theme: 'vuepress-theme-maker',
     editLinks: true,
+    base: '/vue-press-portifolio/',
     themeConfig: {
         logo: 'https://avatars.githubusercontent.com/u/36523479?v=4',
         sidebar: 'auto',
