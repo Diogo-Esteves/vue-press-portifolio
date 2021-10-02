@@ -7,7 +7,7 @@
   "author": "diogoEsteves <not@not.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress-theme-maker": "^1.2.0"
+    "vuepress-theme-maker": "1.2.0"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",

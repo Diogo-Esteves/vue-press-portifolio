@@ -3,11 +3,10 @@ module.exports = {
     title: 'Diogo Portifolio!',
     description: 'An engineer that enjoy tech and math.',
     theme: 'vuepress-theme-maker',
-    docsDir: 'docs',
     editLinks: true,
-    search: '',
     themeConfig: {
         logo: 'https://avatars.githubusercontent.com/u/36523479?v=4',
+        sidebar: 'auto',
         nav: [
             { text: '🏠 Home', link: '/vue-press-portifolio/' },
             { text: '📚 Books', link: '/vue-press-portifolio/books/'},
@@ -31,10 +30,11 @@ module.exports = {
               {
                 id: 'post',
                 dirname: '_post',
-                path: '/vue-press-portifolio/',
+                path: '/',
                 itemPermalink: '/post/:year/:month/:day/:slug.html',
                 frontmatter: { title: '' },
                 pagination: {
+                  pages: 1,
                   perPagePosts: 10,
                   prevText: '',
                   nextText: ''
@@ -48,6 +48,7 @@ module.exports = {
                 path: '/tags/',
                 frontmatter: { title: 'Tag' },
                 pagination: {
+                  pages: 1,
                   lengthPerPage: 10,
                   prevText: '',
                   nextText: ''
@@ -59,6 +60,7 @@ module.exports = {
                 path: '/categories/',
                 frontmatter: { title: 'Category' },
                 pagination: {
+                  pages: 1,
                   lengthPerPage: 10,
                   prevText: '',
                   nextText: ''
@@ -70,7 +72,7 @@ module.exports = {
               exclude: ['/404.html']
             },
             feed: {
-              canonical_base: 'https://diogo-esteves.github.io/vue-press-portifolio/',
+              canonical_base: '/vue-press-portifolio/',
             },
             palette: {},
             comment: {},

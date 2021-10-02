@@ -8583,7 +8583,7 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-maker@^1.2.0:
+vuepress-theme-maker@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/vuepress-theme-maker/-/vuepress-theme-maker-1.2.0.tgz#ce1bdbe61c7a2133297273aa59fef66cba560e8f"
   integrity sha512-5p+cKdK5/bFJ199kC5VcPJjiJyFtnll+m8fKUXqmOZsefStmAKYSkdAes6bOexUWbrKqGieO1lmjMqpYcWl1EQ==
