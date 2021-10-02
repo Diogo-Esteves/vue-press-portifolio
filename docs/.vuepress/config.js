@@ -9,11 +9,11 @@ module.exports = {
         logo: 'https://avatars.githubusercontent.com/u/36523479?v=4',
         sidebar: 'auto',
         nav: [
-            { text: '🏠 Home', link: '/vue-press-portifolio/' },
-            { text: '📚 Books', link: '/vue-press-portifolio/books/'},
-            { text: '🚀 Projects', link: '/vue-press-portifolio/projects/' },
-            { text: '💡 Ideas', link: '/vue-press-portifolio/ideas/' },
-            { text: '📽 Movies', link: '/vue-press-portifolio/movies/' },
+            { text: '🏠 Home', link: '/' },
+            { text: '📚 Books', link: '/books/'},
+            { text: '🚀 Projects', link: '/projects/' },
+            { text: '💡 Ideas', link: '/ideas/' },
+            { text: '📽 Movies', link: '/movies/' },
           ],
           searchMaxSuggestions: 10,
           social: [
