@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>/vue-press-portifolio/</id>
+    <title>Diogo Portifolio!</title>
+    <updated>2021-10-02T19:19:59.096Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="/vue-press-portifolio/"/>
+    <link rel="self" href="/vue-press-portifolio/feed.atom"/>
+    <subtitle>An engineer that enjoy tech and math.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[I'm using some of my time to learn FastAPI]]></title>
+        <id>/vue-press-portifolio/post/1970/01/01/fastapi.html</id>
+        <link href="/vue-press-portifolio/post/1970/01/01/fastapi.html">
+        </link>
+        <updated>2021-10-02T19:19:59.093Z</updated>
+        <summary type="html"><![CDATA[The project follow this idea:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm using some of my time to learn Math]]></title>
+        <id>/vue-press-portifolio/post/1970/01/01/interestelar-movie.html</id>
+        <link href="/vue-press-portifolio/post/1970/01/01/interestelar-movie.html">
+        </link>
+        <updated>2021-10-02T19:19:59.094Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm using some of my time to learn Math]]></title>
+        <id>/vue-press-portifolio/post/1970/01/01/math.html</id>
+        <link href="/vue-press-portifolio/post/1970/01/01/math.html">
+        </link>
+        <updated>2021-10-02T19:19:59.094Z</updated>
+    </entry>
+</feed>

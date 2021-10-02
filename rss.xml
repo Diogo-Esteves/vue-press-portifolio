@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Diogo Portifolio!</title>
+        <link>/vue-press-portifolio/</link>
+        <description>An engineer that enjoy tech and math.</description>
+        <lastBuildDate>Sat, 02 Oct 2021 19:19:59 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="/vue-press-portifolio/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm using some of my time to learn FastAPI]]></title>
+            <link>/vue-press-portifolio/post/1970/01/01/fastapi.html</link>
+            <guid>/vue-press-portifolio/post/1970/01/01/fastapi.html</guid>
+            <pubDate>Sat, 02 Oct 2021 19:19:59 GMT</pubDate>
+            <description><![CDATA[The project follow this idea:]]></description>
+        </item>
+        <item>
+            <title><![CDATA[I'm using some of my time to learn Math]]></title>
+            <link>/vue-press-portifolio/post/1970/01/01/interestelar-movie.html</link>
+            <guid>/vue-press-portifolio/post/1970/01/01/interestelar-movie.html</guid>
+            <pubDate>Sat, 02 Oct 2021 19:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm using some of my time to learn Math]]></title>
+            <link>/vue-press-portifolio/post/1970/01/01/math.html</link>
+            <guid>/vue-press-portifolio/post/1970/01/01/math.html</guid>
+            <pubDate>Sat, 02 Oct 2021 19:19:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

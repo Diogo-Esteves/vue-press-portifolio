@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Diogo Portifolio!",
+    "home_page_url": "/vue-press-portifolio/",
+    "feed_url": "/vue-press-portifolio/feed.json",
+    "description": "An engineer that enjoy tech and math.",
+    "items": [
+        {
+            "id": "/vue-press-portifolio/post/1970/01/01/fastapi.html",
+            "url": "/vue-press-portifolio/post/1970/01/01/fastapi.html",
+            "title": "I'm using some of my time to learn FastAPI",
+            "summary": "The project follow this idea:",
+            "date_modified": "2021-10-02T19:19:59.093Z"
+        },
+        {
+            "id": "/vue-press-portifolio/post/1970/01/01/interestelar-movie.html",
+            "url": "/vue-press-portifolio/post/1970/01/01/interestelar-movie.html",
+            "title": "I'm using some of my time to learn Math",
+            "date_modified": "2021-10-02T19:19:59.094Z"
+        },
+        {
+            "id": "/vue-press-portifolio/post/1970/01/01/math.html",
+            "url": "/vue-press-portifolio/post/1970/01/01/math.html",
+            "title": "I'm using some of my time to learn Math",
+            "date_modified": "2021-10-02T19:19:59.094Z"
+        }
+    ]
+}
